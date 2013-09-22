@@ -159,3 +159,7 @@ Someone please describe this procedure here.
 ### POSSIBLE IDEAS:
 * make it easy to run pie (see what I did there?)
 * create Shoes compatible classes (slippers?) to run Shoes example code too
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/hunterboerner/kidsruby/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
